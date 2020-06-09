@@ -1,0 +1,72 @@
+body{
+		background-color:white;
+		font-family: Arial, Helvetica, sans-serif;
+		color: #999;
+		font-size: 12px;
+		margin: 0;
+	}	
+	
+	a{
+		color: #555;
+		text-decoration: none;
+	}
+	
+	a:hover	{
+		color: #84ccc5;
+	}
+	
+	.skin-font	{
+		color: #84ccc5;
+	}
+	
+	.bg-white	{
+		background-color: #ffffff;
+	}
+	
+	.bg-grey	{
+		background-color: #fafafa;
+	}
+	
+	.text-white	{
+		color: #fff;
+	}
+	
+	.text-skin	{
+		color: #84ccc5;
+	}
+	
+	.hover-white:hover	{
+		color: #fff;
+	}
+	
+	.email-btn	{
+		background-color: #fff;
+		border: 1px solid #eee;
+		border-radius:4px; 
+		background-clip: padding-box;
+		font-size:13px; 
+		text-align:center;  
+		color:#777; 
+		font-weight: 300; 
+	}
+	
+	.email-btn.skin-color	{
+		background-color: #84ccc5;
+	}
+	
+	.email-btn.skin-color:hover	{
+		background-color: #3a3a3a;
+	}
+	
+	.email-btn.skin-color .btn-inner	{
+		color: #fff;
+	}
+	
+	.btn-inner	{
+		display: block;
+		padding: 7px 10px;
+	}
+
+.mycheck {
+
+}
